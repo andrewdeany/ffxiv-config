@@ -27,7 +27,7 @@ FPSCameraInterpolationType	1
 FPSCameraVerticalInterpolation	0
 LegacyCameraType	1
 CameraLookBlinkType	0
-IdleEmoteTime	5
+IdleEmoteTime	0
 IdleEmoteRandomType	0
 CutsceneSkipIsShip	1
 CutsceneSkipIsContents	1
@@ -36,6 +36,9 @@ TurnSpeed	50
 FootEffect	0
 LegacySeal	1
 GBarrelDisp	1
+EgiMirageTypeGaruda	1
+EgiMirageTypeTitan	0
+EgiMirageTypeIfrit	3
 TimeMode	2
 Time12	0
 TimeEorzea	1
@@ -43,7 +46,7 @@ TimeLocal	1
 TimeServer	0
 ActiveLS_H	3670016
 ActiveLS_L	72597
-HotbarLock	0
+HotbarLock	1
 HotbarDispRecastTime	1
 ExHotbarChangeHotbar1	1
 HotbarCommon01	0
@@ -70,6 +73,7 @@ HotbarCrossDisp	0
 HotbarCrossLock	0
 HotbarCrossUsePadGuide	1
 HotbarCrossActiveSet	0
+HotbarCrossActiveSetPvP	0
 HotbarCrossSetChangeCustomIsAuto	1
 HotbarCrossSetChangeCustom	0
 HotbarCrossSetChangeCustomSet1	1
@@ -153,6 +157,8 @@ NamePlateNameTypeParty	0
 NamePlateHpTypeParty	2
 NamePlateDispTypePartyPet	0
 NamePlateHpTypePartyPet	2
+NamePlateDispTypePartyBuddy	0
+NamePlateHpTypePartyBuddy	2
 NamePlateColorAlliance	4294901760
 NamePlateEdgeAlliance	4279631872
 NamePlateDispTypeAlliance	1
@@ -167,6 +173,8 @@ NamePlateNameTypeOther	0
 NamePlateHpTypeOther	2
 NamePlateDispTypeOtherPet	2
 NamePlateHpTypeOtherPet	2
+NamePlateDispTypeOtherBuddy	2
+NamePlateHpTypeOtherBuddy	2
 NamePlateColorUnengagedEnemy	4289788159
 NamePlateEdgeUnengagedEnemy	4278210403
 NamePlateDispTypeUnengagedEnemy	0
@@ -210,6 +218,8 @@ NamePlateNameTypeFriend	0
 NamePlateHpTypeFriend	2
 NamePlateDispTypeFriendPet	2
 NamePlateHpTypeFriendPet	2
+NamePlateDispTypeFriendBuddy	2
+NamePlateHpTypeFriendBuddy	2
 NamePlateColorLim	4282401023
 NamePlateColorLimEdge	4278584896
 NamePlateColorGri	4278255615
@@ -239,6 +249,7 @@ DTR	0
 PlayerInfo	0
 NaviMap	0
 Help	0
+CrossMainHelp	1
 Log	0
 LogTell	0
 LogFontSize	12
@@ -293,6 +304,7 @@ LogFontSizeLog4	12
 LogTimeDispLog4	1
 LogPermeationRateLog4	50
 LogFlyingHeightMaxErrDisp	1
+LogCrossWorldName	1
 ShopSell	0
 ColorSay	16316664
 ColorShout	16754278
@@ -357,6 +369,7 @@ MapPadOperationYReverse	0
 MapPadOperationXReverse	0
 MapDispSize	0
 FlyTextDispSize	0
+PopUpTextDispSize	0
 DetailDispDelayType	0
 PartyListSortTypeTank	0
 PartyListSortTypeHealer	0
@@ -366,6 +379,7 @@ RatioHpDisp	1
 BuffDispType	0
 ContentsFinderListSortType	0
 ContentsFinderSupplyEnable	0
+EnemyListCastbarEnable	1
 ContentsFinderUseLangTypeJA	0
 ContentsFinderUseLangTypeEN	1
 ContentsFinderUseLangTypeDE	0
@@ -374,10 +388,13 @@ ItemInventryWindowSizeType	1
 ItemInventryRetainerWindowSizeType	1
 EmoteTextType	1
 PartyFinderNewArrivalDisp	1
+GPoseTargetFilterNPCLookAt	1
+GPoseMotionFilterAction	1
 LsListSortPriority	0
 FriendListSortPriority	0
 FriendListFilterType	0
 FriendListSortType	0
 LetterListFilterType	0
 LetterListSortType	0
+PvPFrontlinesGCFree	1
  
