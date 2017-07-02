@@ -16,7 +16,7 @@ LipMotionType	1
 FirstPersonDefaultYAngle	0.000000
 FirstPersonDefaultZoom	0.780000
 FirstPersonDefaultDistance	1.500000
-ThirdPersonDefaultYAngle	-0.349066
+ThirdPersonDefaultYAngle	-0.484504
 ThirdPersonDefaultZoom	0.780000
 ThirdPersonDefaultDistance	6.000000
 LockonDefaultYAngle	-0.349066
@@ -53,7 +53,7 @@ HotbarCommon01	0
 HotbarCommon02	0
 HotbarCommon03	0
 HotbarCommon04	0
-HotbarCommon05	1
+HotbarCommon05	0
 HotbarCommon06	1
 HotbarCommon07	1
 HotbarCommon08	1
