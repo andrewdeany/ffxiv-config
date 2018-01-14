@@ -39,6 +39,7 @@ GBarrelDisp	1
 EgiMirageTypeGaruda	1
 EgiMirageTypeTitan	2
 EgiMirageTypeIfrit	3
+BahamutSize	2
 TimeMode	2
 Time12	0
 TimeEorzea	1
@@ -48,6 +49,7 @@ ActiveLS_H	3670016
 ActiveLS_L	49260
 HotbarLock	1
 HotbarDispRecastTime	1
+HotbarCrossContentsActionEnableInput	1
 ExHotbarChangeHotbar1	1
 HotbarCommon01	0
 HotbarCommon02	0
@@ -250,6 +252,7 @@ PlayerInfo	0
 NaviMap	0
 Help	0
 CrossMainHelp	1
+HousingLocatePreview	1
 Log	0
 LogTell	0
 LogFontSize	12
@@ -305,6 +308,7 @@ LogTimeDispLog4	1
 LogPermeationRateLog4	50
 LogFlyingHeightMaxErrDisp	1
 LogCrossWorldName	1
+ChatType	2
 ShopSell	0
 ColorSay	16316664
 ColorShout	16754278
@@ -378,7 +382,7 @@ PartyListSortTypeOther	0
 RatioHpDisp	1
 BuffDispType	0
 ContentsFinderListSortType	0
-ContentsFinderSupplyEnable	0
+ContentsFinderSupplyEnable	1
 EnemyListCastbarEnable	1
 ContentsFinderUseLangTypeJA	0
 ContentsFinderUseLangTypeEN	1
