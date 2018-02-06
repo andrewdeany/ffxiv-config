@@ -26,6 +26,7 @@ CameraProductionOfAction	1
 FPSCameraInterpolationType	1
 FPSCameraVerticalInterpolation	0
 LegacyCameraType	1
+EventCameraAutoControl	1
 CameraLookBlinkType	0
 IdleEmoteTime	0
 IdleEmoteRandomType	0
@@ -46,7 +47,7 @@ TimeEorzea	1
 TimeLocal	1
 TimeServer	0
 ActiveLS_H	3670016
-ActiveLS_L	98514
+ActiveLS_L	49260
 HotbarLock	1
 HotbarDispRecastTime	1
 HotbarCrossContentsActionEnableInput	1
@@ -275,6 +276,8 @@ IsLogAlliance	1
 LogAlliance	2
 IsLogFc	1
 LogFc	15
+IsLogPvpTeam	0
+LogPvpTeam	0
 IsLogLs1	0
 LogLs1	0
 IsLogLs2	0
@@ -324,6 +327,8 @@ ColorLS6	13959039
 ColorLS7	13959039
 ColorLS8	13959039
 ColorFCompany	4286642272
+ColorPvPGroup	4289518822
+ColorPvPGroupAnnounce	4289518822
 ColorBeginner	13959039
 ColorEmoteUser	12386288
 ColorEmote	12386288
@@ -400,5 +405,14 @@ FriendListFilterType	0
 FriendListSortType	0
 LetterListFilterType	0
 LetterListSortType	0
+ContentsReplayEnable	0
+MouseWheelOperationUp	1
+MouseWheelOperationDown	2
+MouseWheelOperationCtrlUp	0
+MouseWheelOperationCtrlDown	0
+MouseWheelOperationAltUp	0
+MouseWheelOperationAltDown	0
+MouseWheelOperationShiftUp	0
+MouseWheelOperationShiftDown	0
 PvPFrontlinesGCFree	1
  
