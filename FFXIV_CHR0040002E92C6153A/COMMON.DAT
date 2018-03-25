@@ -1,5 +1,5 @@
 BattleEffectSelf	0
-BattleEffectParty	2
+BattleEffectParty	0
 BattleEffectOther	0
 
 <GamePad Settings>
@@ -44,11 +44,11 @@ BahamutSize	0
 TimeMode	2
 Time12	0
 TimeEorzea	1
-TimeLocal	1
-TimeServer	0
+TimeLocal	0
+TimeServer	1
 ActiveLS_H	3670016
-ActiveLS_L	49260
-HotbarLock	1
+ActiveLS_L	103538
+HotbarLock	0
 HotbarDispRecastTime	1
 HotbarCrossContentsActionEnableInput	1
 ExHotbarChangeHotbar1	1
@@ -257,7 +257,7 @@ HousingLocatePreview	1
 Log	0
 LogTell	0
 LogFontSize	12
-LogTabName2	Guild
+LogTabName2	Raid
 LogTabName3	Messages
 LogTabFilter0	0
 LogTabFilter1	1
