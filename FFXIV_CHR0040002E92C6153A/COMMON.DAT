@@ -1,5 +1,5 @@
 BattleEffectSelf	0
-BattleEffectParty	2
+BattleEffectParty	0
 BattleEffectOther	0
 
 <GamePad Settings>
@@ -48,7 +48,7 @@ TimeLocal	0
 TimeServer	1
 ActiveLS_H	3670016
 ActiveLS_L	49260
-HotbarLock	1
+HotbarLock	0
 HotbarDispRecastTime	1
 HotbarCrossContentsActionEnableInput	1
 ExHotbarChangeHotbar1	1
