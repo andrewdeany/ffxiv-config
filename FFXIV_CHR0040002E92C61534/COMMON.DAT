@@ -26,6 +26,7 @@ CameraProductionOfAction	1
 FPSCameraInterpolationType	1
 FPSCameraVerticalInterpolation	0
 LegacyCameraType	1
+EventCameraAutoControl	1
 CameraLookBlinkType	0
 IdleEmoteTime	5
 IdleEmoteRandomType	0
@@ -39,6 +40,7 @@ GBarrelDisp	1
 EgiMirageTypeGaruda	0
 EgiMirageTypeTitan	0
 EgiMirageTypeIfrit	0
+BahamutSize	2
 TimeMode	2
 Time12	0
 TimeEorzea	0
@@ -48,6 +50,7 @@ ActiveLS_H	3670016
 ActiveLS_L	92009
 HotbarLock	0
 HotbarDispRecastTime	1
+HotbarCrossContentsActionEnableInput	1
 ExHotbarChangeHotbar1	1
 HotbarCommon01	0
 HotbarCommon02	0
@@ -81,9 +84,9 @@ HotbarCrossSetChangeCustomSet2	1
 HotbarCrossSetChangeCustomSet3	0
 HotbarCrossSetChangeCustomSet4	0
 HotbarCrossSetChangeCustomSet5	0
-HotbarCrossSetChangeCustomSet6	0
-HotbarCrossSetChangeCustomSet7	0
 HotbarCrossSetChangeCustomSet6	1
+HotbarCrossSetChangeCustomSet7	0
+HotbarCrossSetChangeCustomSet8	1
 HotbarCrossSetChangeCustomIsSword	0
 HotbarCrossSetChangeCustomIsSwordSet1	1
 HotbarCrossSetChangeCustomIsSwordSet2	1
@@ -92,7 +95,7 @@ HotbarCrossSetChangeCustomIsSwordSet4	0
 HotbarCrossSetChangeCustomIsSwordSet5	0
 HotbarCrossSetChangeCustomIsSwordSet6	0
 HotbarCrossSetChangeCustomIsSwordSet7	0
-HotbarCrossSetChangeCustomIsSwordSet6	0
+HotbarCrossSetChangeCustomIsSwordSet8	0
 HotbarCrossAdvancedSetting	0
 HotbarCrossAdvancedSettingLeft	15
 HotbarCrossAdvancedSettingRight	14
@@ -104,9 +107,9 @@ HotbarCrossSetChangeCustomSet2Pvp	1
 HotbarCrossSetChangeCustomSet3Pvp	0
 HotbarCrossSetChangeCustomSet4Pvp	0
 HotbarCrossSetChangeCustomSet5Pvp	0
-HotbarCrossSetChangeCustomSet6Pvp	0
-HotbarCrossSetChangeCustomSet7Pvp	0
 HotbarCrossSetChangeCustomSet6Pvp	1
+HotbarCrossSetChangeCustomSet7Pvp	0
+HotbarCrossSetChangeCustomSet8Pvp	1
 HotbarCrossSetChangeCustomIsSwordPvp	0
 HotbarCrossSetChangeCustomIsSwordSet1Pvp	1
 HotbarCrossSetChangeCustomIsSwordSet2Pvp	1
@@ -115,7 +118,7 @@ HotbarCrossSetChangeCustomIsSwordSet4Pvp	0
 HotbarCrossSetChangeCustomIsSwordSet5Pvp	0
 HotbarCrossSetChangeCustomIsSwordSet6Pvp	0
 HotbarCrossSetChangeCustomIsSwordSet7Pvp	0
-HotbarCrossSetChangeCustomIsSwordSet6Pvp	0
+HotbarCrossSetChangeCustomIsSwordSet8Pvp	0
 HotbarCrossAdvancedSettingPvp	0
 HotbarCrossAdvancedSettingLeftPvp	15
 HotbarCrossAdvancedSettingRightPvp	14
@@ -250,6 +253,7 @@ PlayerInfo	0
 NaviMap	0
 Help	0
 CrossMainHelp	1
+HousingLocatePreview	1
 Log	0
 LogTell	0
 LogFontSize	12
@@ -272,6 +276,8 @@ IsLogAlliance	0
 LogAlliance	0
 IsLogFc	0
 LogFc	0
+IsLogPvpTeam	0
+LogPvpTeam	0
 IsLogLs1	0
 LogLs1	0
 IsLogLs2	0
@@ -290,6 +296,8 @@ IsLogLs8	0
 LogLs8	0
 IsLogBeginner	0
 LogBeginner	0
+IsLogCwls	0
+LogCwls	0
 LogRecastActionErrDisp	1
 LogPermeationRate	50
 LogFontSizeForm	12
@@ -305,6 +313,7 @@ LogTimeDispLog4	0
 LogPermeationRateLog4	50
 LogFlyingHeightMaxErrDisp	1
 LogCrossWorldName	1
+ChatType	1
 ShopSell	0
 ColorSay	4294506744
 ColorShout	4294944358
@@ -320,11 +329,14 @@ ColorLS6	4292149119
 ColorLS7	4292149119
 ColorLS8	4292149119
 ColorFCompany	4289518822
+ColorPvPGroup	4289518822
+ColorPvPGroupAnnounce	4289518822
 ColorBeginner	4292149119
 ColorEmoteUser	4290576368
 ColorEmote	4290576368
 ColorYell	4294967040
 ColorBeginnerAnnounce	4292149119
+ColorCWLS	4292149119
 ColorAttackSuccess	4294934399
 ColorAttackFailure	4291611852
 ColorAction	4294967218
@@ -354,6 +366,7 @@ ItemSortItemLevel	1
 ItemSortItemStack	1
 ItemSortTidyingType	0
 ItemNoArmoryMaskOff	0
+InfoSettingDispWorldNameType	1
 TargetNamePlateNameType	0
 FocusTargetNamePlateNameType	0
 ItemDetailTemporarilySwitch	1
@@ -380,6 +393,7 @@ BuffDispType	0
 ContentsFinderListSortType	0
 ContentsFinderSupplyEnable	0
 EnemyListCastbarEnable	1
+AchievementAppealLoginDisp	0
 ContentsFinderUseLangTypeJA	0
 ContentsFinderUseLangTypeEN	1
 ContentsFinderUseLangTypeDE	0
@@ -396,5 +410,14 @@ FriendListFilterType	0
 FriendListSortType	0
 LetterListFilterType	0
 LetterListSortType	0
+ContentsReplayEnable	0
+MouseWheelOperationUp	1
+MouseWheelOperationDown	2
+MouseWheelOperationCtrlUp	0
+MouseWheelOperationCtrlDown	0
+MouseWheelOperationAltUp	0
+MouseWheelOperationAltDown	0
+MouseWheelOperationShiftUp	0
+MouseWheelOperationShiftDown	0
 PvPFrontlinesGCFree	1
  

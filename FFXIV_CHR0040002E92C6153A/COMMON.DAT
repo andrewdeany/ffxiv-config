@@ -84,9 +84,9 @@ HotbarCrossSetChangeCustomSet2	1
 HotbarCrossSetChangeCustomSet3	0
 HotbarCrossSetChangeCustomSet4	0
 HotbarCrossSetChangeCustomSet5	0
-HotbarCrossSetChangeCustomSet6	0
-HotbarCrossSetChangeCustomSet7	0
 HotbarCrossSetChangeCustomSet6	1
+HotbarCrossSetChangeCustomSet7	0
+HotbarCrossSetChangeCustomSet8	1
 HotbarCrossSetChangeCustomIsSword	0
 HotbarCrossSetChangeCustomIsSwordSet1	1
 HotbarCrossSetChangeCustomIsSwordSet2	1
@@ -95,7 +95,7 @@ HotbarCrossSetChangeCustomIsSwordSet4	0
 HotbarCrossSetChangeCustomIsSwordSet5	0
 HotbarCrossSetChangeCustomIsSwordSet6	0
 HotbarCrossSetChangeCustomIsSwordSet7	0
-HotbarCrossSetChangeCustomIsSwordSet6	0
+HotbarCrossSetChangeCustomIsSwordSet8	0
 HotbarCrossAdvancedSetting	0
 HotbarCrossAdvancedSettingLeft	15
 HotbarCrossAdvancedSettingRight	14
@@ -107,9 +107,9 @@ HotbarCrossSetChangeCustomSet2Pvp	1
 HotbarCrossSetChangeCustomSet3Pvp	0
 HotbarCrossSetChangeCustomSet4Pvp	0
 HotbarCrossSetChangeCustomSet5Pvp	0
-HotbarCrossSetChangeCustomSet6Pvp	0
-HotbarCrossSetChangeCustomSet7Pvp	0
 HotbarCrossSetChangeCustomSet6Pvp	1
+HotbarCrossSetChangeCustomSet7Pvp	0
+HotbarCrossSetChangeCustomSet8Pvp	1
 HotbarCrossSetChangeCustomIsSwordPvp	0
 HotbarCrossSetChangeCustomIsSwordSet1Pvp	1
 HotbarCrossSetChangeCustomIsSwordSet2Pvp	1
@@ -118,7 +118,7 @@ HotbarCrossSetChangeCustomIsSwordSet4Pvp	0
 HotbarCrossSetChangeCustomIsSwordSet5Pvp	0
 HotbarCrossSetChangeCustomIsSwordSet6Pvp	0
 HotbarCrossSetChangeCustomIsSwordSet7Pvp	0
-HotbarCrossSetChangeCustomIsSwordSet6Pvp	0
+HotbarCrossSetChangeCustomIsSwordSet8Pvp	0
 HotbarCrossAdvancedSettingPvp	0
 HotbarCrossAdvancedSettingLeftPvp	15
 HotbarCrossAdvancedSettingRightPvp	14
@@ -366,6 +366,7 @@ ItemSortItemLevel	1
 ItemSortItemStack	1
 ItemSortTidyingType	0
 ItemNoArmoryMaskOff	1
+InfoSettingDispWorldNameType	0
 TargetNamePlateNameType	0
 FocusTargetNamePlateNameType	0
 ItemDetailTemporarilySwitch	1
