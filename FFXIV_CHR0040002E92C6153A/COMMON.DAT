@@ -1,6 +1,6 @@
 BattleEffectSelf	0
 BattleEffectParty	1
-BattleEffectOther	0
+BattleEffectOther	1
 
 <GamePad Settings>
 PadMode	0
@@ -44,10 +44,10 @@ BahamutSize	0
 TimeMode	2
 Time12	0
 TimeEorzea	1
-TimeLocal	0
-TimeServer	1
-ActiveLS_H	3670016
-ActiveLS_L	98514
+TimeLocal	1
+TimeServer	0
+ActiveLS_H	6356992
+ActiveLS_L	116571
 HotbarLock	1
 HotbarDispRecastTime	1
 HotbarCrossContentsActionEnableInput	1
@@ -57,7 +57,7 @@ HotbarCommon02	0
 HotbarCommon03	0
 HotbarCommon04	0
 HotbarCommon05	1
-HotbarCommon06	0
+HotbarCommon06	1
 HotbarCommon07	1
 HotbarCommon08	1
 HotbarCommon09	1

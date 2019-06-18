@@ -46,8 +46,8 @@ Time12	0
 TimeEorzea	0
 TimeLocal	1
 TimeServer	0
-ActiveLS_H	3670016
-ActiveLS_L	92009
+ActiveLS_H	6356992
+ActiveLS_L	116571
 HotbarLock	0
 HotbarDispRecastTime	1
 HotbarCrossContentsActionEnableInput	1
@@ -313,7 +313,7 @@ LogTimeDispLog4	0
 LogPermeationRateLog4	50
 LogFlyingHeightMaxErrDisp	1
 LogCrossWorldName	1
-ChatType	1
+ChatType	2
 ShopSell	0
 ColorSay	4294506744
 ColorShout	4294944358
