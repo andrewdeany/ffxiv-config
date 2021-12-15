@@ -1,6 +1,7 @@
 BattleEffectSelf	0
 BattleEffectParty	1
 BattleEffectOther	1
+BattleEffectPvPEnemyPc	0
 
 <GamePad Settings>
 PadMode	0
@@ -41,6 +42,8 @@ GroundTargetTPSPosY	45000
 TargetDisableAnchor	0
 TargetCircleClickFilterEnableNearestCursor	0
 TargetEnableMouseOverSelect	0
+GroundTargetCursorCorrectType	0
+GroundTargetActionExcuteType	0
 TurnSpeed	50
 FootEffect	0
 LegacySeal	1
@@ -49,13 +52,18 @@ EgiMirageTypeGaruda	1
 EgiMirageTypeTitan	2
 EgiMirageTypeIfrit	3
 BahamutSize	0
+PetMirageTypeCarbuncleSupport	0
+PhoenixSize	2
+GarudaSize	0
+TitanSize	0
+IfritSize	0
 TimeMode	2
 Time12	0
 TimeEorzea	1
-TimeLocal	1
-TimeServer	0
+TimeLocal	0
+TimeServer	1
 ActiveLS_H	6356992
-ActiveLS_L	118040
+ActiveLS_L	137522
 HotbarLock	1
 HotbarDispRecastTime	1
 HotbarCrossContentsActionEnableInput	1
@@ -221,7 +229,7 @@ NamePlateEdgeOtherBuddy	4278213930
 NamePlateColorOtherPet	4293066729
 NamePlateEdgeOtherPet	4278213930
 NamePlateNameTitleTypeSelf	1
-NamePlateNameTitleTypeParty	1
+NamePlateNameTitleTypeParty	0
 NamePlateNameTitleTypeAlliance	1
 NamePlateNameTitleTypeOther	1
 NamePlateNameTitleTypeFriend	1
@@ -339,6 +347,7 @@ LogTimeDispLog4	1
 LogPermeationRateLog4	50
 LogFlyingHeightMaxErrDisp	1
 LogCrossWorldName	1
+LogDragResize	1
 ChatType	2
 ShopSell	0
 ColorSay	16316664
@@ -346,9 +355,9 @@ ColorShout	16754278
 ColorTell	16759008
 ColorParty	6743807
 ColorAlliance	16744448
-ColorLS1	4292905204
-ColorLS2	13959039
-ColorLS3	13959039
+ColorLS1	14715124
+ColorLS2	4294967040
+ColorLS3	4294967040
 ColorLS4	13959039
 ColorLS5	13959039
 ColorLS6	13959039
@@ -362,7 +371,7 @@ ColorEmoteUser	12386288
 ColorEmote	12386288
 ColorYell	16776960
 ColorBeginnerAnnounce	13959039
-ColorCWLS	4287938815
+ColorCWLS	9748735
 ColorCWLS2	3860660
 ColorCWLS3	13959039
 ColorCWLS4	13959039
@@ -427,12 +436,13 @@ ContentsFinderListSortType	0
 ContentsFinderSupplyEnable	0
 EnemyListCastbarEnable	1
 AchievementAppealLoginDisp	1
-ContentsFinderUseLangTypeJA	0
+ContentsFinderUseLangTypeJA	1
 ContentsFinderUseLangTypeEN	1
-ContentsFinderUseLangTypeDE	0
-ContentsFinderUseLangTypeFR	0
+ContentsFinderUseLangTypeDE	1
+ContentsFinderUseLangTypeFR	1
 ItemInventryWindowSizeType	1
 ItemInventryRetainerWindowSizeType	1
+BattleTalkShowFace	1
 EmoteTextType	1
 IsEmoteSe	0
 EmoteSeType	0
@@ -454,5 +464,7 @@ MouseWheelOperationAltUp	0
 MouseWheelOperationAltDown	0
 MouseWheelOperationShiftUp	0
 MouseWheelOperationShiftDown	0
+TelepoTicketUseType	0
+TelepoTicketGilSetting	1
 PvPFrontlinesGCFree	1
  
