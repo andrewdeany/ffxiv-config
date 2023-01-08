@@ -43,7 +43,7 @@ TargetDisableAnchor	0
 TargetCircleClickFilterEnableNearestCursor	0
 TargetEnableMouseOverSelect	0
 GroundTargetCursorCorrectType	0
-GroundTargetActionExcuteType	0
+GroundTargetActionExcuteType	1
 AutoNearestTarget	0
 AutoNearestTargetType	0
 TurnSpeed	50
