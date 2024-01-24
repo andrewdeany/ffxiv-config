@@ -162,7 +162,7 @@ HotbarXHBAlphaDefault	0
 HotbarXHBAlphaActiveSet	0
 HotbarXHBAlphaInactiveSet	0
 HotbarWXHBInputOnce	0
-ExHotbarChangeHotbar1IsFashion	1
+ExHotbarChangeHotbar1IsFashion	0
 HotbarCrossUseExDirectionAutoSwitch	1
 IdlingCameraSwitchType	1
 HotbarXHBEditEnable	1
