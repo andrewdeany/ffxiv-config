@@ -273,8 +273,8 @@ NamePlateDispTypeFeastPet	0
 NamePlateHpTypeFeastPet	2
 NamePlateNameTitleTypeFeast	1
 NamePlateDispSize	0
-NamePlateDispJobIcon	0
-NamePlateDispJobIconType	1
+NamePlateDispJobIcon	1
+NamePlateDispJobIconType	0
 NamePlateSetRoleColor	0
 NamePlateColorTank	4294942528
 NamePlateEdgeTank	4282392576
@@ -375,7 +375,7 @@ LogTimeDispLog4	1
 LogPermeationRateLog4	50
 LogFlyingHeightMaxErrDisp	1
 LogCrossWorldName	1
-LogDragResize	1
+LogDragResize	0
 LogNameIconType	1
 LogDispClassJobName	1
 LogSetRoleColor	1
@@ -408,10 +408,10 @@ ColorYell	16776960
 ColorBeginnerAnnounce	13959039
 ColorCWLS	9748735
 ColorCWLS2	3860660
-ColorCWLS3	13959039
-ColorCWLS4	13959039
+ColorCWLS3	4292149119
+ColorCWLS4	4292905204
 ColorCWLS5	13959039
-ColorCWLS6	4292905204
+ColorCWLS6	4292149119
 ColorCWLS7	13959039
 ColorCWLS8	13959039
 ColorAttackSuccess	16744319
