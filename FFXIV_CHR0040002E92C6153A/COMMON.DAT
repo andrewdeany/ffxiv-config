@@ -50,6 +50,9 @@ AutoNearestTargetType	0
 RightClickExclusionPC	1
 RightClickExclusionBNPC	1
 RightClickExclusionMinion	0
+EnableMoveTiltCharacter	1
+EnableMoveTiltMountGround	1
+EnableMoveTiltMountFly	1
 TurnSpeed	50
 FootEffect	0
 LegacySeal	1
@@ -63,6 +66,7 @@ PhoenixSize	0
 GarudaSize	0
 TitanSize	0
 IfritSize	0
+SolBahamutSize	0
 PetMirageTypeFairy	0
 TimeMode	2
 Time12	0
@@ -166,6 +170,9 @@ ExHotbarChangeHotbar1IsFashion	0
 HotbarCrossUseExDirectionAutoSwitch	1
 IdlingCameraSwitchType	1
 HotbarXHBEditEnable	1
+HotbarContentsAction2ReverseOperation	0
+HotbarContentsAction2ReturnInitialSlot	0
+HotbarContentsAction2ReverseRotate	0
 PlateType	1
 PlateDispHPBar	1
 PlateDisableMaxHPBar	1
@@ -510,5 +517,9 @@ MouseWheelOperationShiftDown	0
 TelepoTicketUseType	4
 TelepoTicketGilSetting	999
 TelepoCategoryType	1
+HidePcAroundQuestProgressNpc	0
+HidePcAroundQuestProgressNpcIncludeParty	0
+HidePcAroundNpcAccessingQuest	0
+HidePcAroundNpcAccessingQuestIncludeParty	0
 PvPFrontlinesGCFree	1
  
