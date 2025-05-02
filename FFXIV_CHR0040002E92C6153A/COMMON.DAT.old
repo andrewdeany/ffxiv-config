@@ -71,8 +71,8 @@ PetMirageTypeFairy	0
 TimeMode	2
 Time12	0
 TimeEorzea	1
-TimeLocal	0
-TimeServer	1
+TimeLocal	1
+TimeServer	0
 ActiveLS_H	6356992
 ActiveLS_L	118522
 HotbarLock	1
@@ -390,7 +390,7 @@ LogColorRoleTank	4278223103
 LogColorRoleHealer	4286642272
 LogColorRoleDPS	4294934399
 LogColorOtherClass	4291611852
-ChatType	2
+ChatType	20
 ShopSell	0
 ColorSay	16316664
 ColorShout	16754278
@@ -510,8 +510,8 @@ MouseWheelOperationUp	1
 MouseWheelOperationDown	2
 MouseWheelOperationCtrlUp	0
 MouseWheelOperationCtrlDown	0
-MouseWheelOperationAltUp	0
-MouseWheelOperationAltDown	0
+MouseWheelOperationAltUp	7
+MouseWheelOperationAltDown	8
 MouseWheelOperationShiftUp	0
 MouseWheelOperationShiftDown	0
 TelepoTicketUseType	4
